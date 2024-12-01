@@ -10,7 +10,7 @@ Sou programador e adoro arrumar problemas para resolver com _Python_.
 
 - Gosto de sempre aprender mais 🌐
 
-- Programo desde 2015 😃
+- Programo desde 2018 😃
 
 - Ja tive contato com Java/C#/C++/HTML/CSS/JavaScript/Python ⌨
 
